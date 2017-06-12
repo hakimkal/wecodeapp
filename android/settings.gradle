@@ -1,0 +1,3 @@
+rootProject.name = 'WeCodeApp'
+
+include ':app'
